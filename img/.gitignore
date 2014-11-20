@@ -1,1 +1,6 @@
 .DS_Store
+css/style.css
+node_modules/*
+views/css/bootstrap-grid.css
+views/css/style.css
+views/js/main.js
