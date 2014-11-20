@@ -48,3 +48,6 @@ The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstra
 
 ### Steps I took to optimise the portfolio:
 * optimised images by using tinypng.com
+* because print.css and style.css are so small it made no sense to have them in separate files, so I combined them into one
+* moved js <script>s to the bottom of the html file and made them async
+* used inline css
