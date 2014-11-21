@@ -139,14 +139,16 @@
   <script type="text/javascript" src="js/build/main.min.js"></script>
   <!-- Link to CSS -->
   <script>
-      var links = ['css/build/style.css'];
-      for(var i = 0; i < links.length; i++){
-          var l = document.createElement('link');
-          l.rel = 'stylesheet';
-          l.href = links[i];
-          var h = document.getElementsByTagName('head')[0];
-          h.parentNode.insertBefore(l, h);
-      }
+      var cb = function() {
+          var links = ['css/build/style.css'];
+          for (var i = 0; i < links.length; i++) {
+              var l = document.createElement('link');
+              l.rel = 'stylesheet';
+              l.href = links[i];
+              var h = document.getElementsByTagName('head')[0];
+              h.parentNode.insertBefore(l, h);
+          }
+      };
       var raf = requestAnimationFrame || mozRequestAnimationFrame ||
               webkitRequestAnimationFrame || msRequestAnimationFrame;
       if (raf) raf(cb);
