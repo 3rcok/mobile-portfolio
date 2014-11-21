@@ -53,3 +53,4 @@ The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstra
 * used inline css
 * as perfmatters.js is so small, I have integrated it into the html
 * used grunt to minify js and css
+* on project 2048 I changed the main image src to a local image which has been optimised
