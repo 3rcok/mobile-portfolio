@@ -13,3 +13,12 @@ I downloaded the source code from https://github.com/udacity/frontend-nanodegree
 * There were various images that were linked to on the internet. I changed these to local images which have been optimised
 * I replaced images on index.html with sprites
 * I used a variable to cache the scrolltop value on line 508 of the main.js file to improve the frames per second
+
+
+### Testing the performance
+
+* The improved portfolio can be accessed on http://firzhugh.github.io/mobile-portfolio/project-mobile.html
+* To test the page speed I used the following sites:
+    * https://developers.google.com/speed/pagespeed/insights
+    *http://www.webpagetest.org/
+* To check the frames per second I used Google Developer Tools
