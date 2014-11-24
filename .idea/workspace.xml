@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82cb2f99-20da-4b37-bd1e-6a46b89b59fc" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/js/main.js" afterPath="$PROJECT_DIR$/views/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/js/build/main.min.js" afterPath="$PROJECT_DIR$/views/js/build/main.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project-2048.html" afterPath="$PROJECT_DIR$/project-2048.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project-mobile.html" afterPath="$PROJECT_DIR$/project-mobile.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project-webperf.html" afterPath="$PROJECT_DIR$/project-webperf.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mobile-portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,10 +36,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="project-2048.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="project-2048.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/project-2048.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.125" vertical-offset="21" max-vertical-offset="1215">
+            <state vertical-scroll-proportion="-0.11888112" vertical-offset="171" max-vertical-offset="1215">
               <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="15" selection-end-column="14" />
               <folding />
             </state>
@@ -53,18 +49,18 @@
       <file leaf-file-name="project-mobile.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project-mobile.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="1200">
-              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+            <state vertical-scroll-proportion="-3.75" vertical-offset="330" max-vertical-offset="1200">
+              <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="project-webperf.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="project-webperf.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project-webperf.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5244755" vertical-offset="0" max-vertical-offset="1395">
-              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+            <state vertical-scroll-proportion="-20.625" vertical-offset="0" max-vertical-offset="1395">
+              <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -127,8 +123,8 @@
         <option value="$PROJECT_DIR$/views/pizza.html" />
         <option value="$PROJECT_DIR$/views/js/main.js" />
         <option value="$PROJECT_DIR$/project-2048.html" />
-        <option value="$PROJECT_DIR$/project-mobile.html" />
         <option value="$PROJECT_DIR$/project-webperf.html" />
+        <option value="$PROJECT_DIR$/project-mobile.html" />
       </list>
     </option>
   </component>
@@ -598,26 +594,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project-2048.html">
+    <entry file="file://$PROJECT_DIR$/project-webperf.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.125" vertical-offset="21" max-vertical-offset="1215">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="15" selection-end-column="14" />
+        <state vertical-scroll-proportion="-20.625" vertical-offset="0" max-vertical-offset="1395">
+          <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project-mobile.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="1200">
-          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        <state vertical-scroll-proportion="-3.75" vertical-offset="330" max-vertical-offset="1200">
+          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project-webperf.html">
+    <entry file="file://$PROJECT_DIR$/project-2048.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5244755" vertical-offset="0" max-vertical-offset="1395">
-          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        <state vertical-scroll-proportion="-0.11888112" vertical-offset="171" max-vertical-offset="1215">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="15" selection-end-column="14" />
           <folding />
         </state>
       </provider>
