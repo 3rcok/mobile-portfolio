@@ -451,10 +451,12 @@ var resizePizzas = function(size) {
   // Iterates through pizza elements on the page and changes their widths
   function changePizzaSizes(size) {
       var pizzaContainer = document.querySelectorAll(".randomPizzaContainer");
+  // cached variables to determine size outside the loop for faster performance
+      var dx = determineDx(pizzaContainer[0], size);
+      var newWidth = (pizzaContainer[0].offsetWidth + dx) + 'px';
     for (var i = 0; i < pizzaContainer.length; i++) {
-      var dx = determineDx(pizzaContainer[i], size);
-      var newwidth = (pizzaContainer[i].offsetWidth + dx) + 'px';
-      pizzaContainer[i].style.width = newwidth;
+        var pizza = pizzaContainer[i];
+        pizza.style.width = newWidth;
     }
   }
 
@@ -501,46 +503,53 @@ function logAverageFrame(times) {   // times is the array of User Timing measure
 
 // Moves the sliding background pizzas based on scroll position
 function updatePositions() {
-  frame++;
-  window.performance.mark("mark_start_frame");
+    frame++;
+    window.performance.mark("mark_start_frame");
 
-  var items = document.querySelectorAll('.mover');
+    var innerHeight = window.innerHeight;
+    var items = document.querySelectorAll('.mover');
     // variable to store the scrolltop value instead of accessing it in document throughout the loop
-    var cachedScrollTop = document.body.scrollTop;
-  for (var i = 0; i < items.length; i++) {
-    var phase = Math.sin((cachedScrollTop / 1250) + (i % 5));
-    items[i].style.left = items[i].basicLeft + 100 * phase + 'px';
-  }
+    var cachedScrollTop = document.body.scrollTop / 1250;
+    for (var i = 0; i < items.length; i++) {
+        var element = items[i];
+        // Only move the elements that are in the viewport
+        if(element.basicTop > innerHeight){
+            break;
+        }
+        var phase = Math.sin(cachedScrollTop + (i % 5));
+        element.style.left = element.basicLeft + 100 * phase + 'px';
+    }
 
-  // User Timing API to the rescue again. Seriously, it's worth learning.
-  // Super easy to create custom metrics.
-  window.performance.mark("mark_end_frame");
-  window.performance.measure("measure_frame_duration", "mark_start_frame", "mark_end_frame");
-  if (frame % 10 === 0) {
-    var timesToUpdatePosition = window.performance.getEntriesByName("measure_frame_duration");
-    logAverageFrame(timesToUpdatePosition);
-  }
+    // User Timing API to the rescue again. Seriously, it's worth learning.
+    // Super easy to create custom metrics.
+    window.performance.mark("mark_end_frame");
+    window.performance.measure("measure_frame_duration", "mark_start_frame", "mark_end_frame");
+    if (frame % 10 === 0) {
+        var timesToUpdatePosition = window.performance.getEntriesByName("measure_frame_duration");
+        logAverageFrame(timesToUpdatePosition);
+    }
 }
 
 // runs updatePositions on scroll
 window.addEventListener('scroll', updatePositions);
 
 // Generates the sliding pizzas when the page loads.
-document.addEventListener('DOMContentLoaded', function() {
-  var cols = 8;
-  var s = 256;
-    var movingPizzas =document.querySelector("#movingPizzas1");
-  for (var i = 0; i < 200; i++) {
-    var elem = document.createElement('img');
-    elem.className = 'mover';
-    elem.src = "images/pizza.png";
-    elem.style.height = "100px";
-    elem.style.width = "73.333px";
-    elem.basicLeft = (i % cols) * s;
-    elem.style.top = (Math.floor(i / cols) * s) + 'px';
-    movingPizzas.appendChild(elem);
-  }
-  updatePositions();
+document.addEventListener('DOMContentLoaded', function () {
+    var cols = 8;
+    var s = 256;
+    var movingPizzas = document.querySelector("#movingPizzas1");
+    for (var i = 0; i < 200; i++) {
+        var elem = document.createElement('img');
+        elem.className = 'mover';
+        elem.src = "images/pizza.png";
+        elem.style.height = "100px";
+        elem.style.width = "73.333px";
+        elem.basicLeft = (i % cols) * s;
+        elem.style.top = (Math.floor(i / cols) * s) + 'px';
+        // created variable for easier/faster workflow as 'px' needs to be added in every time
+        elem.basicTop = (Math.floor(i / cols) * s);
+        movingPizzas.appendChild(elem);
+    }
+    updatePositions();
 });
-
 

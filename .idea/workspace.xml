@@ -2,6 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82cb2f99-20da-4b37-bd1e-6a46b89b59fc" name="Default" comment="">
+<<<<<<< HEAD
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt/node_modules/.bin/cake" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/.bin/cake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-cssmin/node_modules/.bin/cleancss" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-cssmin/node_modules/.bin/cleancss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-htmlmin/node_modules/html-minifier/node_modules/.bin/cleancss" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-htmlmin/node_modules/html-minifier/node_modules/.bin/cleancss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt/node_modules/.bin/coffee" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/.bin/coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt/node_modules/js-yaml/node_modules/.bin/esparse" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/js-yaml/node_modules/.bin/esparse" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt/node_modules/js-yaml/node_modules/.bin/esvalidate" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/js-yaml/node_modules/.bin/esvalidate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-cssmin/node_modules/maxmin/node_modules/.bin/gzip-size" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-cssmin/node_modules/maxmin/node_modules/.bin/gzip-size" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/maxmin/node_modules/.bin/gzip-size" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/maxmin/node_modules/.bin/gzip-size" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-concat/node_modules/chalk/node_modules/.bin/has-ansi" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-concat/node_modules/chalk/node_modules/.bin/has-ansi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-cssmin/node_modules/maxmin/node_modules/chalk/node_modules/.bin/has-ansi" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-cssmin/node_modules/maxmin/node_modules/chalk/node_modules/.bin/has-ansi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-sass/node_modules/chalk/node_modules/.bin/has-ansi" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-sass/node_modules/chalk/node_modules/.bin/has-ansi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/chalk/node_modules/.bin/has-ansi" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/chalk/node_modules/.bin/has-ansi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-htmlmin/node_modules/.bin/html-minifier" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-htmlmin/node_modules/.bin/html-minifier" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt/node_modules/.bin/js-yaml" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/.bin/js-yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/.bin/jshint" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/.bin/jshint" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/js/main.js" afterPath="$PROJECT_DIR$/views/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/js/build/main.min.js" afterPath="$PROJECT_DIR$/views/js/build/main.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt/node_modules/.bin/nopt" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/.bin/nopt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/pizza.html" afterPath="$PROJECT_DIR$/views/pizza.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-cssmin/node_modules/maxmin/node_modules/.bin/pretty-bytes" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-cssmin/node_modules/maxmin/node_modules/.bin/pretty-bytes" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-htmlmin/node_modules/.bin/pretty-bytes" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-htmlmin/node_modules/.bin/pretty-bytes" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/maxmin/node_modules/.bin/pretty-bytes" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/maxmin/node_modules/.bin/pretty-bytes" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt/node_modules/.bin/rimraf" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/.bin/rimraf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/.bin/shjs" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/.bin/shjs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-concat/node_modules/chalk/node_modules/.bin/strip-ansi" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-concat/node_modules/chalk/node_modules/.bin/strip-ansi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-cssmin/node_modules/chalk/node_modules/.bin/strip-ansi" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-cssmin/node_modules/chalk/node_modules/.bin/strip-ansi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-cssmin/node_modules/maxmin/node_modules/chalk/node_modules/.bin/strip-ansi" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-cssmin/node_modules/maxmin/node_modules/chalk/node_modules/.bin/strip-ansi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-htmlmin/node_modules/chalk/node_modules/.bin/strip-ansi" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-htmlmin/node_modules/chalk/node_modules/.bin/strip-ansi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-sass/node_modules/chalk/node_modules/.bin/strip-ansi" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-sass/node_modules/chalk/node_modules/.bin/strip-ansi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/chalk/node_modules/.bin/strip-ansi" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/chalk/node_modules/.bin/strip-ansi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/.bin/strip-json-comments" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/.bin/strip-json-comments" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/css/style.css" afterPath="$PROJECT_DIR$/views/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/css/build/style.css" afterPath="$PROJECT_DIR$/views/css/build/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-concat/node_modules/chalk/node_modules/.bin/supports-color" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-concat/node_modules/chalk/node_modules/.bin/supports-color" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-cssmin/node_modules/maxmin/node_modules/chalk/node_modules/.bin/supports-color" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-cssmin/node_modules/maxmin/node_modules/chalk/node_modules/.bin/supports-color" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-sass/node_modules/chalk/node_modules/.bin/supports-color" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-sass/node_modules/chalk/node_modules/.bin/supports-color" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/chalk/node_modules/.bin/supports-color" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/chalk/node_modules/.bin/supports-color" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-htmlmin/node_modules/html-minifier/node_modules/.bin/uglifyjs" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-htmlmin/node_modules/html-minifier/node_modules/.bin/uglifyjs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/.bin/uglifyjs" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/.bin/uglifyjs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-sass/node_modules/.bin/which" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-sass/node_modules/.bin/which" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt/node_modules/.bin/which" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/.bin/which" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-sass/node_modules/.bin/win-spawn" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-sass/node_modules/.bin/win-spawn" />
+>>>>>>> gh-pages
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mobile-portfolio.iws" />
@@ -25,52 +71,73 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pizza.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="pizza.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/pizza.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="2775">
               <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="29" selection-end-column="12" />
+=======
+            <state vertical-scroll-proportion="0.26929983" vertical-offset="0" max-vertical-offset="2280">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+>>>>>>> gh-pages
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="project-2048.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project-2048.html">
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="1215">
               <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="15" selection-end-column="14" />
+=======
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1155">
+              <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+>>>>>>> gh-pages
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="project-mobile.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project-mobile.html">
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/css/build/style.css">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="1200">
               <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+=======
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+              <caret line="7" column="131" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="9916" />
+>>>>>>> gh-pages
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="project-webperf.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project-webperf.html">
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="1395">
               <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+=======
+            <state vertical-scroll-proportion="0.0" vertical-offset="7279" max-vertical-offset="8175">
+              <caret line="453" column="79" selection-start-line="453" selection-start-column="79" selection-end-line="453" selection-end-column="79" />
+>>>>>>> gh-pages
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="0.56654674" vertical-offset="0" max-vertical-offset="556">
               <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
               <folding />
@@ -93,6 +160,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="735">
               <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+=======
+            <state vertical-scroll-proportion="-7.7777777" vertical-offset="0" max-vertical-offset="495">
+              <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+>>>>>>> gh-pages
               <folding />
             </state>
           </provider>
@@ -116,12 +187,13 @@
         <option value="$PROJECT_DIR$/img/.gitignore" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/views/pizza.html" />
-        <option value="$PROJECT_DIR$/views/js/main.js" />
         <option value="$PROJECT_DIR$/project-2048.html" />
         <option value="$PROJECT_DIR$/project-webperf.html" />
         <option value="$PROJECT_DIR$/project-mobile.html" />
+        <option value="$PROJECT_DIR$/views/css/style.css" />
+        <option value="$PROJECT_DIR$/views/js/main.js" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/views/pizza.html" />
       </list>
     </option>
   </component>
@@ -184,13 +256,107 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mobile-portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mobile-portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mobile-portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mobile-portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mobile-portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mobile-portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mobile-portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mobile-portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mobile-portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mobile-portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Project 3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Udacity-Feedreader" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -259,7 +425,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="52" y="45" width="1196" height="714" extended-state="0" />
+<<<<<<< HEAD
     <editor active="false" />
+=======
+    <editor active="true" />
+>>>>>>> gh-pages
     <layout>
       <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -313,7 +483,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="1395">
           <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+<<<<<<< HEAD
           <folding />
+=======
+>>>>>>> gh-pages
         </state>
       </provider>
     </entry>
@@ -322,8 +495,13 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="420">
           <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="435">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+>>>>>>> gh-pages
           <folding />
         </state>
       </provider>
@@ -340,7 +518,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="735">
           <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+<<<<<<< HEAD
           <folding />
+=======
+>>>>>>> gh-pages
         </state>
       </provider>
     </entry>
@@ -356,7 +537,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="1215">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="15" selection-end-column="14" />
+<<<<<<< HEAD
           <folding />
+=======
+>>>>>>> gh-pages
         </state>
       </provider>
     </entry>
@@ -372,7 +556,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="1395">
           <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+<<<<<<< HEAD
           <folding />
+=======
+>>>>>>> gh-pages
         </state>
       </provider>
     </entry>
@@ -399,7 +586,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="735">
           <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+<<<<<<< HEAD
           <folding />
+=======
+>>>>>>> gh-pages
         </state>
       </provider>
     </entry>
@@ -434,7 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="735">
           <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -481,7 +670,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="673" max-vertical-offset="1245">
           <caret line="74" column="17" selection-start-line="74" selection-start-column="17" selection-end-line="74" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -505,7 +693,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="165">
           <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -521,7 +708,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1095" max-vertical-offset="1260">
           <caret line="73" column="17" selection-start-line="73" selection-start-column="17" selection-end-line="73" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -543,7 +729,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="885">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -559,7 +744,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="915">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -587,6 +771,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="497">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+<<<<<<< HEAD
         </state>
       </provider>
     </entry>
@@ -594,6 +779,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="497">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+          <folding />
+>>>>>>> gh-pages
         </state>
       </provider>
     </entry>
@@ -630,13 +818,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8507463" vertical-offset="237" max-vertical-offset="840">
-          <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-39.375" vertical-offset="0" max-vertical-offset="1530">
@@ -644,27 +825,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gruntfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
-          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/pizza.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="2775">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="29" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project-webperf.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state vertical-scroll-proportion="-39.375" vertical-offset="0" max-vertical-offset="1530">
+          <caret line="63" column="14" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
+=======
         <state vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="1395">
           <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
-          <folding />
+>>>>>>> gh-pages
         </state>
       </provider>
     </entry>
@@ -676,10 +845,63 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/views/pizza.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="2775">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="29" selection-end-column="12" />
+=======
     <entry file="file://$PROJECT_DIR$/project-2048.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="1215">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1155">
+          <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+>>>>>>> gh-pages
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/css/build/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="1395">
+          <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+          <caret line="7" column="131" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="9916" />
+>>>>>>> gh-pages
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="1200">
+          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+=======
+        <state vertical-scroll-proportion="0.6060606" vertical-offset="0" max-vertical-offset="735">
+          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+>>>>>>> gh-pages
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="1215">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="15" selection-end-column="14" />
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="6394" max-vertical-offset="8175">
+          <caret line="453" column="79" selection-start-line="453" selection-start-column="79" selection-end-line="453" selection-end-column="79" />
+>>>>>>> gh-pages
           <folding />
         </state>
       </provider>
@@ -697,8 +919,21 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.56654674" vertical-offset="0" max-vertical-offset="556">
           <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+=======
+        <state vertical-scroll-proportion="-7.7777777" vertical-offset="0" max-vertical-offset="495">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/pizza.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26929983" vertical-offset="0" max-vertical-offset="2280">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+>>>>>>> gh-pages
           <folding />
         </state>
       </provider>
